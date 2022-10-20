@@ -1,4 +1,3 @@
-from tkinter.messagebox import YES
 from netmiko import ConnectHandler
 
 choice = input("Would you like to connect via telnet or ssh?")
